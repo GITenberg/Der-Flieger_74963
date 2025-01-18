@@ -1,0 +1,34 @@
+_repo: Der-Flieger_74963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bartsch, Rudolf Hans
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '45625'
+    url: http://www.gutenberg.org/2009/agents/45625
+    wikipedia: https://de.wikipedia.org/wiki/Rudolf_Hans_Bartsch
+description: ''
+gutenberg_issued: '2024-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74963'
+  lccn: '15015958'
+language: de
+pgterms:marc904: https://archive.org/details/derfliegereinrom00bart/page/n7
+pgterms:marc905: 20181215090441bartsch
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: Peter Becker, Hans Theyer, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBerlin :$bUllstein & Co, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: Der Flieger
+url: http://www.gutenberg.org/ebooks/74963
